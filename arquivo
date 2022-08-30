@@ -1,0 +1,15 @@
+x = msgbox("Can I get a kiss?", 0+48, "?")
+y = msgbox("And can you make it last forever?", 0+64, ":3")
+z = msgbox("I said I'm 'bout to go to war", 0+64, "._.")
+a = msgbox("And I don't know if I'ma see you again", 0+64, ":/")
+
+dim result
+
+result = msgbox("Can I get a kiss? <3", 4+32, "hihi")
+
+If result=6 then
+msgbox "They should call you sugar, you're so sweet", 64, "<3"
+else
+msgbox "I'll whoop ya ass" ,16, "</3"
+msgbox "Your girlfriend look like my mom" ,16, "</3"
+end if
